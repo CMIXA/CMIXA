@@ -1,10 +1,11 @@
 # Hello World, my name is Chris 👋
-
+![computer](./images/computer.jpeg =300x200)
 ## I am a front-end developer and designer looking to bring in a new perspective. 
 ### Some of my interests include: 
 - web development, front-end development, back-end development, VR & AR, experimental design, UX & UI, fashion, music, and 3D modeling. 
 
-### I’ve always seen programming as a tool for creativity and that's what excites me. With that, I want to be a well-rounded developer who is continuously learning!
+### Tools I Use:
+- Html, CSS, Javascript, Python, React, Sass, Node.js, Github, Blender, Unity, Unreal Engine, Figma, Adobe XD. 
 
 ### Lets connect!
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/christopher-mixa/#gh-light-mode-only)
