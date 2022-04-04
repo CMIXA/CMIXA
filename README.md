@@ -1,5 +1,4 @@
 # Hello World, I'm Chris 👋
-[![computer](./img/computer.jpeg)
 ## I am a front-end developer and designer looking to bring in a new perspective. 
 ### Some of my interests include: 
 - web development, front-end development, back-end development, VR & AR, experimental design, UX & UI, fashion, music, and 3D modeling. 
