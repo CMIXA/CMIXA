@@ -1,10 +1,10 @@
 # Hello World, I'm Chris 👋
 ## I am a front-end developer and designer looking to bring in a new perspective. 
 ### Some of my interests include: 
-- web development, front-end development, back-end development, VR & AR, experimental design, UX & UI, fashion, music, and 3D modeling. 
+- Web Development, Front-end Development, Back-end Development, VR & AR, Experimental Design, UX & UI, Fashion, Music, and 3D Modeling. 
 
 ### Tools I Use:
-- Html, CSS, Javascript, Python, React, Sass, Nodejs Github, Blender, Unity, Unreal Engine, Figma, Adobe XD. 
+- Html, CSS, Javascript, Python, React, Sass, Node.js, Github, Blender, Unity, Unreal Engine, Figma, Adobe XD. 
 <!-- ### I’ve always seen programming as a tool for creativity and that's what excites me. With that, I want to be a well-rounded developer who is continuously learning! -->
 
 ### Let's connect!
