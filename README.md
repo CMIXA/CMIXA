@@ -1,4 +1,4 @@
-# Hello World, I'm Chris 👋
+# Hello World, I'm Chris 👋🌊
 ## I am a front-end developer and visual designer looking to bring in a new perspective. 
 ### Some of my interests include: 
 - Web Development, Front-end Development, Back-end Development, VR & AR, Experimental Design, UX & UI, Fashion, Music, 3D Modeling, Architecture, and Videography. 
@@ -16,8 +16,8 @@
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="UnrealEngine" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <!-- ### I’ve always seen programming as a tool for creativity and that's what excites me. With that, I want to be a well-rounded developer who is continuously learning! -->
 <br/>
 
