@@ -6,6 +6,10 @@
 
 ### I’ve always seen programming as a tool for creativity and that's what excites me. With that, I want to be a well-rounded developer who is continuously learning!
 
+### Lets connect!
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/christopher-mixa/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/christopher-mixa/#gh-dark-mode-only)
+&nbsp;&nbsp;
 <!--
 **CMIXA/CMIXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
