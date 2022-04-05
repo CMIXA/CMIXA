@@ -1,5 +1,5 @@
 # Hello World, I'm Chris 🌊
-## I am a front-end developer and visual designer looking to bring in a new perspective. 
+## I'm a front-end developer and visual designer looking to bring in a new perspective. 
 ### Some of my interests include: 
 - Web Development, Front-end Development, Back-end Development, VR & AR, Experimental Design, UX & UI, Fashion, Music, 3D Modeling, Architecture, and Videography. 
 
