@@ -20,7 +20,7 @@
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <!-- ### I’ve always seen programming as a tool for creativity and that's what excites me. With that, I want to be a well-rounded developer who is continuously learning! -->
 <br/>
-
+<br/>
 ### Let's connect!
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/christopher-mixa/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/christopher-mixa/#gh-dark-mode-only)
