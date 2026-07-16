@@ -2,7 +2,6 @@
 ## I'm a Software Engineer, Product Designer, and Founder building products that bring people together through thoughtful technology.
 
 Currently building **Comuniti** — a map-based social platform helping people discover, share, and connect through neighborhoods and real-world experiences.
-<br/>
 
 ### Let's connect!
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/christopher-mixa/#gh-light-mode-only)
